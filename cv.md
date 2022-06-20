@@ -1,12 +1,10 @@
 ## CV
 
----
-
 # Chistyakova Yulia
 
----
-
 ### Junior Frontend Developer
+
+---
 
 ### Contact information:
 

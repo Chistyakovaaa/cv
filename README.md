@@ -1,1 +1,1 @@
-https://Chistyakovaaa.github.io/cv/cv
+https://Chistyakovaaa.github.io/cv/

@@ -34,7 +34,7 @@ Actually, I'm an accountant, but I quickly realized that I don't like this profe
 - CSS
 - JavaScript
 - Version control: Git (remote service GitHub)
-- Windows OS, Linux(Ubuntu)
+- Windows OS
 - Figma(for web development)
 - Editors: Sublime, VSCode
 
@@ -42,7 +42,7 @@ Actually, I'm an accountant, but I quickly realized that I don't like this profe
 
 - External EPAM courses on Frontend development (completed)
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ### Languages:
 
